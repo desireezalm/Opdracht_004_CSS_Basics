@@ -1,0 +1,53 @@
+@import url("https://fonts.googleapis.com/css2?family=Lobster&display=swap");
+body {
+  color: #2b0836;
+  background-color: #e2b8f1;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 16px;
+  font-weight: normal;
+  line-height: 1.6em;
+}
+footer {
+  font-weight: lighter;
+  font-size: 12px;
+}
+.box-1 {
+  background-color: #2b0836;
+  color: #e2b8f1;
+  font-family: Lobster;
+  font-weight: normal;
+  width: 30%;
+  padding-left: 20px;
+}
+.box-2 {
+  font-weight: lighter;
+  font-size: 12px;
+}
+.quotes {
+  font-weight: normal;
+  font-size: 12px;
+  font-style: italic;
+  padding-left: 10px;
+}
+.author {
+  font-weight: lighter;
+  font-size: 12px;
+  font-style: normal;
+  padding-left: 30px;
+}
+#navigation {
+  background-color: #2b0836;
+  color: #e2b8f1;
+  font-family: Lobster;
+  padding-left: 20px;
+  border: 4px solid #714083;
+}
+.purple-border {
+  border: 3px solid #714083;
+}
+.container {
+  width: 80%;
+}
+.image {
+  border: 3px solid #714083;
+}
